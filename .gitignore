@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+*.swp
+
+# Env / secrets
+.env
+.env.local
+
+# Log
+*.log
+
+node_modules/
+dist/
+build/
+.npm/
+npm-debug.log*
+.pnpm-store/
