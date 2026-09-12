@@ -9,3 +9,4 @@ e questo progetto aderisce a [Semantic Versioning](https://semver.org/lang/it/).
 
 ### Added
 - Setup iniziale del progetto.
+- Sito di prenotazione valet parking: pagina singola HTML/CSS/JS con modulo di prenotazione, calcolo prezzo live per categoria auto (piccola/media/grande) con autocompletamento modello, e conferma via email. Aggiunti anche PRODUCT.md e DESIGN.md.
